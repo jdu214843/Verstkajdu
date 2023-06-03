@@ -15,7 +15,7 @@ export const Container = style.div`
         justify-content: center;
         margin-top: 112px;
         color: white;
-    font-style: normal;
+                    font-style: normal;
     font-weight: 500;
     font-size: 54px;
     line-height: 95px;
